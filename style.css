@@ -282,3 +282,8 @@ body:not([class]) h2 {
 .pagina-tecnologias ul {
     top: 290px;
 }
+
+.pagina-tecnologias p,
+.pagina-tecnologias ul {
+    font-size: 18px;
+}
